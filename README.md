@@ -4,15 +4,12 @@
 
 This project analyzes customer shopping behavior to uncover purchasing patterns, customer preferences, and revenue drivers. Using Python, MySQL, and Power BI, the analysis transforms raw transaction data into actionable business insights that support data-driven decision-making.
 
----
-
 ## Dashboard Preview
 
 <p align="center">
   <img src="images/CSB_dashboard.png" width="900">
 </p>
 
----
 
 ## Business Objectives
 
@@ -24,7 +21,6 @@ The analysis aims to answer key business questions, including:
 - Which products rely most on discounts?
 - How can customer retention and repeat purchases be improved?
 
----
 
 ## Dataset
 
@@ -40,7 +36,6 @@ The dataset contains **3,000 customer shopping transactions** with information o
 - Customer ratings
 - Purchase history
 
----
 
 ## Tools & Technologies
 
@@ -49,7 +44,6 @@ The dataset contains **3,000 customer shopping transactions** with information o
 - Power BI
 - Jupyter Notebook
 
----
 
 ## Project Workflow
 
@@ -59,8 +53,6 @@ The dataset contains **3,000 customer shopping transactions** with information o
 - Data Visualization
 - Power BI Dashboard Development
 - Executive Reporting
-
----
 
 ## Dashboard Features
 
@@ -73,7 +65,6 @@ The Power BI dashboard provides an interactive overview of:
 - Sales Trends
 - Customer Segmentation
 
----
 
 ## Key Insights
 
@@ -84,7 +75,6 @@ The Power BI dashboard provides an interactive overview of:
 - High-value age groups contributed the highest revenue.
 - Discounts influenced purchasing decisions across several products.
 
----
 
 ## Business Recommendations
 
@@ -96,7 +86,6 @@ The Power BI dashboard provides an interactive overview of:
 - Convert new and returning customers into loyal buyers through personalized post-purchase engagement.
 - Prioritize high-value customer segments with targeted promotions.
 
----
 
 ## Executive Report
 <p align="center">
