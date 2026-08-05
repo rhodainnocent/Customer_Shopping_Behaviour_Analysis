@@ -96,8 +96,7 @@ This project includes an executive report that summarizes the business problem, 
 
 **View the report here:**
 
-[Customer Shopping Behaviour Analysis Report (PDF)](Customer Shopping Behaviour Analysis Data-Driven Growth - Copy.pptx)
-
+[Customer Shopping Behaviour Analysis.pdf](Customer%20Shopping%20Behaviour%20Analysis%20.pdf)
 ---
 
 ## Skills Demonstrated
@@ -118,7 +117,8 @@ This project includes an executive report that summarizes the business problem, 
 ## Author
 
 **Rhoda Innocent**  
-Data Analyst
-**LinkedIn:** *(Add your LinkedIn profile)*
+Email: innocentrhoda54@gmail.com
+Contact: +2348169818758
+**LinkedIn:** *[Rhoda Innocent](https://www.linkedin.com/in/rhoda-innocent-983a481ba?utm_source=share_via&utm_content=profile&utm_medium=member_android)*
 
 ---
