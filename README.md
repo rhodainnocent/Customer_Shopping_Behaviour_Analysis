@@ -46,7 +46,7 @@ The dataset contains **3,000 customer shopping transactions** with information o
 ## Key Insights
 
 - Clothing was the highest-performing product category.
-- Female customers generated a significant share of total revenue.
+- Male customers generated a significant share of total revenue.
 - Subscription customers spent more than non-subscribers.
 - Customer segmentation revealed opportunities to improve retention.
 - High-value age groups contributed the highest revenue.
