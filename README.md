@@ -24,18 +24,7 @@ The analysis aims to answer key business questions, including:
 
 ## Dataset
 
-The dataset contains **3,000 customer shopping transactions** with information on:
-
-- Customer demographics
-- Product categories
-- Purchase amount
-- Subscription status
-- Discounts
-- Shipping type
-- Payment methods
-- Customer ratings
-- Purchase history
-
+The dataset contains **3,000 customer shopping transactions** with information on: Customer demographics, Product categories, Purchase amount, Subscription status, Discounts, Shipping type, Payment methods, Customer ratings, Purchase history
 
 ## Tools & Technologies
 
@@ -53,18 +42,6 @@ The dataset contains **3,000 customer shopping transactions** with information o
 - Data Visualization
 - Power BI Dashboard Development
 - Executive Reporting
-
-## Dashboard Features
-
-The Power BI dashboard provides an interactive overview of:
-
-- Total Revenue
-- Average Purchase Value
-- Customer Distribution
-- Product Category Performance
-- Sales Trends
-- Customer Segmentation
-
 
 ## Key Insights
 
@@ -101,16 +78,13 @@ This project includes an executive report that summarizes the business problem, 
 
 ## Skills Demonstrated
 
-- Data Cleaning
 - Data Wrangling
 - Exploratory Data Analysis (EDA)
 - SQL
 - Data Visualization
 - Business Intelligence
-- Power BI
-- Dashboard Development
+- Python
 - Business Storytelling
-- Executive Reporting
 
 ---
 
